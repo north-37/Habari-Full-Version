@@ -240,4 +240,4 @@ This repository serves as the official landing page for Habari. The software is 
 **Get the most recent version of Habari today!**
 
 ---
-**Last updated:** 2026-09-17 16:37:36 UTC
+**Last updated:** 2026-09-17 20:05:07 UTC
